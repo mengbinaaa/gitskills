@@ -1,7 +1,7 @@
 /******************************************************************************
 
  * Filename: sdi_task.c
-
+// add to git ---------------------
  SDI is a TI RTOS Application Thread that provides a common serial data interface
  framework
 
